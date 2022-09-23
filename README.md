@@ -1,7 +1,5 @@
-### Hi there 👋
-
 <p align="left">
-  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jeremiahjordanisaacson&count_private=true&show_icons=true&theme=onedark&border_radius=15" />
+  <img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jeremiahjordanisaacson&count_private=true&show_icons=true&theme=react&border_radius=15" />
 </p>
 
 <!--
