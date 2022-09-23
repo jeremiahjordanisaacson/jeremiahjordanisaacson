@@ -2,6 +2,8 @@
   <a href="http://www.jeremiahisaacson.com/"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jeremiahjordanisaacson&count_private=true&show_icons=true&theme=react&border_radius=15" /></a>
 </p>
 
+<img src="https://github.githubassets.com/images/modules/notifications/filters-zero-dark.svg"/>
+
 <!--
 **jeremiahjordanisaacson/jeremiahjordanisaacson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
