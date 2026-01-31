@@ -1,21 +1,22 @@
-<!-- <p align="left">
-  <a href="http://www.jeremiahisaacson.com/"><img align="center" height="170" src="https://github-readme-stats.vercel.app/api?username=jeremiahjordanisaacson&count_private=true&show_icons=true&theme=react&border_radius=15" /></a>
-</p> -->
+# Hey, I'm Jeremiah
 
+Software developer building things across platforms and languages.
 
-<!-- <img src="https://github.githubassets.com/images/modules/notifications/filters-zero-dark.svg"/> -->
+## What I'm Working On
 
-<!--
-**jeremiahjordanisaacson/jeremiahjordanisaacson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Project | Description |
+|---------|-------------|
+| [Keyboard & Mouse for Xbox Cloud Gaming](https://github.com/jeremiahjordanisaacson/Keyboard-Mouse-for-Xbox-Cloud-Gaming) | Browser extension enabling KB+M controls for xCloud |
+| [Rustcraft](https://github.com/jeremiahjordanisaacson/Rustcraft) | Minecraft-style voxel engine in Rust with wgpu |
+| [Quantonium](https://github.com/jeremiahjordanisaacson/Quantonium) | Developer-focused Linux distribution based on Ubuntu |
+| [DOOM for Android](https://github.com/jeremiahjordanisaacson/Doom) | Modern Android port of the classic DOOM engine |
+| [GitHub Achievement Unlocker](https://github.com/jeremiahjordanisaacson/github-achievement-unlocker) | Guide to unlocking all GitHub achievements |
 
-Here are some ideas to get you started:
+## Tech
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Languages:** Rust, JavaScript, C/C++, C#, Visual Basic, Python
+**Platforms:** Web, Android, Linux, Windows
+
+## Links
+
+- [jeremiahisaacson.com](http://www.jeremiahisaacson.com)
